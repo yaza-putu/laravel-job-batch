@@ -1,0 +1,26 @@
+{
+  "_axios-82afda87.js": {
+    "file": "assets/axios-82afda87.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-c80772e0.js",
+    "imports": [
+      "_axios-82afda87.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/websocket.js": {
+    "file": "assets/websocket-b030e58a.js",
+    "imports": [
+      "_axios-82afda87.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/websocket.js"
+  }
+}
